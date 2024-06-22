@@ -1,0 +1,3 @@
+Week 1: We are building a neural network from scratch without the use of external libraries. It gives a better understanding of back propagation and training of neural networks.
+Week 2: We have built a trigram model here(takes two characters as input to predict the third one) using neural nets. The focus is primarily on using tensors and use in efficiently evaluating neuraql networks and overall framework of language modelling that includes model training, sampling and the evaluation of a loss.
+Week 3: We have implemented a multi layer perceptron, focusing on batch normalisation, a key innovation for stabilizing deep neural network training. We also evaluate loss when all weights and biases are initialised to 0 and also created a 3 layer MLP with batchnorms. 
